@@ -1,0 +1,19 @@
+.tombolorderakun{
+	background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;   
+    cursor:pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.tombolorderakun:hover{
+	background-color: #4CAF50; /* Green */
+	color: white; 
+	transition-duration: 0.5s;
+}
